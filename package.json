@@ -1,0 +1,16 @@
+{
+  "name": "Batman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^79.0.0",
+    "nightwatch": "^1.3.2"
+  }
+}
